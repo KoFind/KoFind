@@ -1,5 +1,5 @@
-Hi 👋 we are KoFind
-SaaS Platform for Sellers & Service Providers
+- Hi 👋 we are KoFind
+- 💡 SaaS Platform for Sellers & Service Providers
 
 - 🌱 We are working on SaaS product where we will provide be providing FREE Software, App (Android, iOS, Web, Windows, MAC) to all Sellers & Service Providers Globally.
 
